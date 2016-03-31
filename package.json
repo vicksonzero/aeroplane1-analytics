@@ -1,0 +1,29 @@
+{
+  "name": "aeroplane1-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicksonzero/aeroplane1-analytics.git"
+  },
+  "keywords": [
+    "analtyics",
+    "unity"
+  ],
+  "author": "Dickson Chui (vicksonzero)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicksonzero/aeroplane1-analytics/issues"
+  },
+  "homepage": "https://github.com/vicksonzero/aeroplane1-analytics#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "crypto": "0.0.3",
+    "express": "^4.13.4",
+    "twitter": "^1.2.5"
+  }
+}
